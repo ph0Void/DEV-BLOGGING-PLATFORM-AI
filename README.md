@@ -16,26 +16,14 @@ La solución completa incluye un **frontend (Next.js + TypeScript)** y un **back
 <img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/1eb3ec0b-382e-4d6c-92ac-30a926cf7e73" />
 
  
-## ✨ **Características principales**
+## 🎯 *Características Principales*
+- 🤖 Asistente de Contenido IA: Un chatbot integrado y funcionalidades en el editor para generar ideas, crear borradores completos, optimizar código y dar formato a tus artículos.
+- ✍️ Editor Enriquecido (Milkdown): Un editor de texto moderno con soporte completo para Markdown, ideal para escribir código y documentación técnica.
+- 📊 Dashboard de Analíticas: Mide el impacto de tu contenido con gráficos que muestran vistas, "likes" y comparativas entre tus publicaciones.
+- 🔗 Blogs y "DevLinks": Publica artículos técnicos detallados o comparte rápidamente enlaces de interés para la comunidad, todo en un mismo lugar.
+- 🔐 Autenticación Segura: Sistema de registro y login basado en JSON Web Tokens (JWT) para proteger las cuentas y los datos de los usuarios.
+- ☁️ Gestión de Archivos: Sube imágenes para tus posts y proyectos directamente a Cloudinary.
 
-- ### 💬 Asistente Inteligente Integrado  
-Tu copiloto de escritura: genera ideas, completa párrafos, sugiere ejemplos de código y mejora la estructura de tus artículos.  
-
-### ⚡ Flujo de trabajo simplificado  
-Una plataforma pensada para enfocarte en **escribir y compartir valor**, sin perder tiempo configurando.  
-
-- ### 📊 Dashboard avanzado de métricas  
-Visualiza y compara las estadísticas de tus **blogs y DevLinks** 👇  
-- Vistas totales por publicación  
-- Comparativa visual (gráficas de líneas y doughnuts)  
-- Análisis por tipo de contenido, día o mes  
-- Contadores de interacciones (likes y vistas únicas)  
-
-- ### 🧑‍💻 Enfoque para Tech Writers y Developers  
-Ideal para la **DevCommunity**, donde ingenieros, programadores y entusiastas comparten conocimiento en un entorno inteligente y atractivo.  
-
-- ### 🧠 IA profesional integrada  
-Basada en **OpenAI**, con soporte para modelos locales o API externas. Genera contenido personalizado y contextual dentro del propio editor.  
 
 ## 📊 *Capturas de pantalla*
  
