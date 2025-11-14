@@ -18,24 +18,36 @@ La solución completa incluye un **frontend (Next.js + TypeScript)** y un **back
  
 ## ✨ **Características principales**
 
-### 💬 Asistente Inteligente Integrado  
+- ### 💬 Asistente Inteligente Integrado  
 Tu copiloto de escritura: genera ideas, completa párrafos, sugiere ejemplos de código y mejora la estructura de tus artículos.  
 
 ### ⚡ Flujo de trabajo simplificado  
 Una plataforma pensada para enfocarte en **escribir y compartir valor**, sin perder tiempo configurando.  
 
-### 📊 Dashboard avanzado de métricas  
+- ### 📊 Dashboard avanzado de métricas  
 Visualiza y compara las estadísticas de tus **blogs y DevLinks** 👇  
 - Vistas totales por publicación  
 - Comparativa visual (gráficas de líneas y doughnuts)  
 - Análisis por tipo de contenido, día o mes  
 - Contadores de interacciones (likes y vistas únicas)  
 
-### 🧑‍💻 Enfoque para Tech Writers y Developers  
+- ### 🧑‍💻 Enfoque para Tech Writers y Developers  
 Ideal para la **DevCommunity**, donde ingenieros, programadores y entusiastas comparten conocimiento en un entorno inteligente y atractivo.  
 
-### 🧠 IA profesional integrada  
+- ### 🧠 IA profesional integrada  
 Basada en **OpenAI**, con soporte para modelos locales o API externas. Genera contenido personalizado y contextual dentro del propio editor.  
+
+## 📊 *Capturas de pantalla*
+ 
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/476d22bc-4189-49fd-9715-15783240acdd" />
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/0938ec13-810c-47df-a60c-113c0e4c236b" />
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/514beb36-021a-40ec-bcf1-bf91884ba863" />
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/eb874182-1741-47f9-8673-6bd71a0f6223" />
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/ce457c62-dae3-44f6-a065-2fbc3338034b" />
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/45940173-210a-4a3c-acb0-76f42e0c0e22" />
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/7591b96d-8918-4e1e-9d2c-b8144bc91b6b" />
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/44e46f2e-b98f-4991-b1fd-d0330c550fa3" />
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/759142ca-22ac-420d-aa5b-fa5b5a0c2049" />
 
  
 ## 🧩 **Frontend – DEV Blogging Platform**
@@ -117,33 +129,6 @@ Visualiza el rendimiento de tus contenidos en un solo lugar:
 - **Estadísticas detalladas:** porcentaje de engagement, totales acumulados  
 - **Visualización dinámica con Chart.js**  
 
-## 📊 *Capturas de pantalla*
- 
-<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/476d22bc-4189-49fd-9715-15783240acdd" />
-
-
-<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/0938ec13-810c-47df-a60c-113c0e4c236b" />
-
-
-<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/514beb36-021a-40ec-bcf1-bf91884ba863" />
-
-
-<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/eb874182-1741-47f9-8673-6bd71a0f6223" />
-
-
-<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/ce457c62-dae3-44f6-a065-2fbc3338034b" />
-
-
-<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/45940173-210a-4a3c-acb0-76f42e0c0e22" />
-
-
-<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/7591b96d-8918-4e1e-9d2c-b8144bc91b6b" />
-
-
-<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/44e46f2e-b98f-4991-b1fd-d0330c550fa3" />
-
-
-<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/759142ca-22ac-420d-aa5b-fa5b5a0c2049" />
 
 
 ## 🧠 **Próximos pasos**
