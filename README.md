@@ -14,6 +14,7 @@ La solución completa incluye un **frontend (Next.js + TypeScript)** y un **back
 
 <img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/5231a6bb-cd1f-4ebe-bfb5-6646e3b38936" />
 
+<img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/1eb3ec0b-382e-4d6c-92ac-30a926cf7e73" />
 
  
 ## ✨ **Características principales**
@@ -148,5 +149,3 @@ Visualiza el rendimiento de tus contenidos en un solo lugar:
   
 #DevCommunity #AI #Blogging #Tech #Developer #IA #Productividad  
 #AIWriting #DevTools #SoftwareDevelopment #NextJS #NodeJS #Metrics #Dashboard  
-
----
