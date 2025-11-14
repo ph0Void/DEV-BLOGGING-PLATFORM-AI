@@ -12,6 +12,10 @@ Olvídate del bloqueo del escritor: tu **asistente de inteligencia artificial** 
 
 La solución completa incluye un **frontend (Next.js + TypeScript)** y un **backend (Node.js + Express + OpenAI)**. Juntos proporcionan una experiencia fluida, moderna y potenciada por inteligencia artificial, con métricas de interacción en tiempo real.  
 
+
+<img width="1000" height="945" alt="image" src="https://github.com/user-attachments/assets/5231a6bb-cd1f-4ebe-bfb5-6646e3b38936" />
+
+
 ---
 
 ## ✨ **Características principales**
@@ -118,8 +122,20 @@ Visualiza el rendimiento de tus contenidos en un solo lugar:
 - **Estadísticas detalladas:** porcentaje de engagement, totales acumulados  
 - **Visualización dinámica con Chart.js**  
 
-📊 *Ejemplo del Dashboard:*
-> Panel con tarjetas informativas, gráficos comparativos y estadísticas globales de engagement (vistas/likes).  
+## 📊 *Capturas de pantalla*
+ 
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/476d22bc-4189-49fd-9715-15783240acdd" />
+<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/0938ec13-810c-47df-a60c-113c0e4c236b" />
+
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/514beb36-021a-40ec-bcf1-bf91884ba863" />
+<img width="1905" height="959" alt="image" src="https://github.com/user-attachments/assets/eb874182-1741-47f9-8673-6bd71a0f6223" />
+<img width="1904" height="955" alt="image" src="https://github.com/user-attachments/assets/ce457c62-dae3-44f6-a065-2fbc3338034b" />
+
+<img width="1914" height="942" alt="image" src="https://github.com/user-attachments/assets/45940173-210a-4a3c-acb0-76f42e0c0e22" />
+<img width="1906" height="939" alt="image" src="https://github.com/user-attachments/assets/7591b96d-8918-4e1e-9d2c-b8144bc91b6b" />
+
+<img width="1904" height="945" alt="image" src="https://github.com/user-attachments/assets/44e46f2e-b98f-4991-b1fd-d0330c550fa3" />
+<img width="1906" height="944" alt="image" src="https://github.com/user-attachments/assets/759142ca-22ac-420d-aa5b-fa5b5a0c2049" />
 
 ---
 
