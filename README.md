@@ -15,6 +15,10 @@ La solución completa incluye un **frontend (Next.js + TypeScript)** y un **back
  
 <img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/1eb3ec0b-382e-4d6c-92ac-30a926cf7e73" />
 
+<img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/3913d57a-2cd1-4064-b7be-822d3ad4f763" />
+
+https://youtu.be/C1RgGucH6Ec 
+
  
 ## 🎯 *Características Principales*
 - 🤖 Asistente de Contenido IA: Un chatbot integrado y funcionalidades en el editor para generar ideas, crear borradores completos, optimizar código y dar formato a tus artículos.
