@@ -3,7 +3,8 @@
 **El futuro de la creación de contenido técnico ha llegado.** ✨  
 Combina la simplicidad de plataformas como *Dev.to* con el poder de la **Inteligencia Artificial**, para escribir, publicar y compartir tu conocimiento de desarrollo como nunca antes.  
 
- 
+🎥 Demo: https://youtu.be/C1RgGucH6Ec 
+
 ## 🧠 **Descripción general**
 
 **DEV Blogging Platform AI** es una plataforma creada para desarrolladores que desean escribir artículos técnicos o compartir proyectos de forma sencilla y asistida por IA.  
@@ -11,13 +12,10 @@ Olvídate del bloqueo del escritor: tu **asistente de inteligencia artificial** 
 
 La solución completa incluye un **frontend (Next.js + TypeScript)** y un **backend (Node.js + Express + OpenAI)**. Juntos proporcionan una experiencia fluida, moderna y potenciada por inteligencia artificial, con métricas de interacción en tiempo real.  
 
+<img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/3913d57a-2cd1-4064-b7be-822d3ad4f763" />
 
  
 <img width="1000" height="943" alt="image" src="https://github.com/user-attachments/assets/1eb3ec0b-382e-4d6c-92ac-30a926cf7e73" />
-
-<img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/3913d57a-2cd1-4064-b7be-822d3ad4f763" />
-
-https://youtu.be/C1RgGucH6Ec 
 
  
 ## 🎯 *Características Principales*
