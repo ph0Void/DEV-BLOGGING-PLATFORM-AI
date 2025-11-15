@@ -68,7 +68,7 @@ npm run dev
 
 ⚙️ Variables necesarias (.env.local):
 ```
-API_URL=http://localhost:8080
+API_URL=http://localhost:4000
 DOMAIN=http://localhost:3000
 ```
 
