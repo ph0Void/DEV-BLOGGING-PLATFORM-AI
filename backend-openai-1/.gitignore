@@ -1,0 +1,14 @@
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+.env
+
+# dependencies
+/node_modules
